@@ -1,6 +1,25 @@
 input[type="button"]{
-    width: 15%;
+    width: 10%;
     padding: 16px;
-    background-color: rgb(255, 0, 0);
-
+    background-color: rgb(14, 255, 163);
 }
+#boton {
+    background-color: rgb(255, 0, 0);
+    color: aliceblue;
+    padding: 10px;
+    border: none;
+    border-radius: 2px;
+    font-size: 16px;
+}
+.borde-negro {
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 8px;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: rgb(255, 234, 44);
+    font-size: 25px;
+    width: 200px;
+}
+
+
